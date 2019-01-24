@@ -35,7 +35,7 @@ abstract class TestCase extends Orchestra
     protected function getPackageProviders($app)
     {
         return [
-            'BirdSolutions\Respond\Providers\ResponseServiceProvider',
+            'BirdSolutions\Respond\Providers\RespondServiceProvider',
         ];
     }
 
