@@ -4,7 +4,7 @@ namespace BirdSolutions\Respond\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
-class ResponseServiceProvider extends ServiceProvider
+class RespondServiceProvider extends ServiceProvider
 {
     /**
      * Register bindings in the container.
