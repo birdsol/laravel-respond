@@ -27,6 +27,6 @@ class RespondServiceProvider extends ServiceProvider
      */
     protected function offerPublishing()
     {
-       //
+        //
     }
 }
