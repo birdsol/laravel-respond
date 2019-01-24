@@ -36,6 +36,7 @@ abstract class TestCase extends Orchestra
     {
         $amendment = '';
         $amendment = null;
+
         return [
             'BirdSolutions\Respond\Providers\RespondServiceProvider',
         ];
